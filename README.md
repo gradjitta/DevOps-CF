@@ -1,5 +1,7 @@
 # Udacity AWS CloudFormation Project 2
 
+#### Project was done with the help of the course exercises and Mentor answers in the knowledge center forum
+
 # Basics
 
 ## Parameters
