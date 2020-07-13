@@ -1,4 +1,4 @@
-# AWS CloudFormation Project 2
+# Udacity AWS CloudFormation Project 2
 
 # Basics
 
