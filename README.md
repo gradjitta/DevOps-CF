@@ -1,4 +1,4 @@
-# Finally to deploy the stack
+# To deploy the stack
 
 ```
 ./create.sh project-network-stack projectinfra-network.yaml projectinfra-network-params.json
